@@ -1,15 +1,6 @@
 package pro;
 
-public class removeElement {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
-
-class Solution {
+class RemoveElement {
     public int removeElement(int[] nums, int val) {
         int l = nums.length;
         int[] r = new int[l];

@@ -1,4 +1,5 @@
-/*
+package pro;
+/**
 189. Rotate Array
 Solved
 Medium
@@ -44,7 +45,7 @@ Follow up:
 
 
 */
-class Solution {
+class RotateArray {
     public void rotate(int[] nums, int k) {
         int l = nums.length;
         k = k % l;
