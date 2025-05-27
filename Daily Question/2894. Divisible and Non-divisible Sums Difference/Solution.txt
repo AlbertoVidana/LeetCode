@@ -1,0 +1,41 @@
+Divisibel and Non-divisible Sum :: solution in #Spanis and #English :: From Mexico with love xD
+Alberto
+Apr LeetCoding Challenge
+1
+9 minutes ago
+Java
+Intuition
+
+*We are given two numbers, the first is the limit of the chain of numbers that we are going to use starting from 1 and the second is the number which we are going to use to divide between the series of numbers
+*Nos dan dos numeros, el primero es el limite de la cadena de numeros que vamos a utilizar empezando des de 1 y el segundo es el numero el cual vamos a usar para dividir entre la serie de numeros
+Approach
+
+*My approach is to make a loop that starts from number 1 and goes up to 'n', inside our loop or for have two if the first to see if it is divisible by m and the second if not
+*Mi approximation es hacer un bucle que empiece del numero 1 y llegue asta 'n', dentro de nuestro bucle o for tener dos if el primero para ver si es divisible entre m y el segundo en caso contrario
+Complexity
+
+    Time complexity:
+
+n(O)
+
+    Space complexity:
+
+n(O)
+Code
+
+class Solution {
+    public int differenceOfSums(int n, int m) {
+        int num1 = 0;
+        int num2 = 0;
+
+        for (int i = 1; i <= n; i++) {
+            if (i % m != 0) {
+                num1 = num1 + i;
+            } else if (i % m == 0) {
+                num2 = num2 + i;
+            }
+        }
+        
+        return num1 - num2;
+    }
+}
