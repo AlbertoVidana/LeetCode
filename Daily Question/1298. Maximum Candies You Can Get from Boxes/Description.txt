@@ -52,7 +52,7 @@ Constraints:
 Seen this question in a real interview before?
 1/5
 Yes
-No
+No  
 Accepted
 91,580/132.7K
 Acceptance Rate
