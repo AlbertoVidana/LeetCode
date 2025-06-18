@@ -1,0 +1,3 @@
+    Status                      Languaj Runtime Memory  Notes
+2   Accepted    10 minutes ago  Java    2 ms    47.6 MB
+1   Accepted    20 minutes ago  Java    404 ms  47.3 MB
