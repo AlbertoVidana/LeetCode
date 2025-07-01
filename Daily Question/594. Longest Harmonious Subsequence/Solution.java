@@ -12,6 +12,6 @@ public class Solution {
                 maxLength = Math.max(maxLength, i - j + 1);
             }
         }
-        return maxLength;
+        return maxLength;   
     }
 }
