@@ -1,7 +1,9 @@
 # LeetCode
  
-All kinds of questions that are supposed to be solved with any coding language, I mostly use Java.
+All kinds of questions that are supposed to be solved with any coding language, in most cases Java is used.
 #Algorithms
-#Data Structure
+#DataStructure
 #Arrays
 #Loops
+#ForFun
+@beto4saber
