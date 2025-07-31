@@ -1,0 +1,138 @@
+Bitwise ORs of Subarrays [Python/C++/Java]
+Nikhil
+30 Days of Pandas
+15312
+17 hours ago
+Array
+Hash Table
+Dynamic Programming
+Bit Manipulation
+Bitwise ORs of Subarrays [Python/C++/Java]
+Intuition
+
+Let's figure out the core idea behind the efficient solution.
+Why is the simple approach too slow?
+
+First, you might think of just finding every single subarray, calculating its bitwise OR, and counting the unique results.
+
+    Finding all subarrays is slow (O(N^2)).
+    Calculating the OR for each can also be slow.
+
+This brute-force method works for small arrays, but it will time out on larger ones. We need a smarter way!
+Finding a Clever Pattern
+
+Let's look at how bitwise OR works. Notice a neat pattern:
+
+The OR of [a, b, c] is just (the OR of [a, b]) | c.
+
+This means we can build our results as we step through the array. The results for subarrays ending at the current element are directly related to the results from the previous element. This hints at a step-by-step, dynamic programming approach.
+The "Aha!" Moment: The Magic of a Small Set ✨
+
+Here’s the real trick. Let's consider all subarrays that end at a specific position, say arr[i]. How many unique OR values can they possibly create?
+
+You might think it's a lot, but it's surprisingly few! Why?
+
+    Bitwise OR is Monotonic: When you OR a number with another, the result can only have the same bits set, or more bits set. It never loses a 1.
+    a | b >= a
+
+    Think of it like a light switch panel with 32 switches. Once a switch is flipped ON, it stays ON. To get a new OR value, you must flip a switch that was previously OFF.
+
+Since our numbers have at most 32 bits, you can only introduce a new "ON" switch about 32 times. This means the set of unique OR values for all subarrays ending at any single position is tiny (at most ~32).
+Our Final Game Plan
+
+So, we can design an efficient algorithm:
+
+    We'll iterate through the array, element by element.
+    At each element x, we'll maintain a small set, current_ors, which holds all the unique OR values of subarrays ending at x.
+    This set is easily calculated from the results of the previous element.
+    We'll collect all the unique values we generate at each step into one big master set.
+    The final answer is simply the size of this master set!
+
+Approach
+
+We can formalize the intuition into a clear algorithm:
+
+    Initialize result_ors, a master set that will store all distinct bitwise ORs found across all subarrays.
+    Initialize current_ors, a set that will store the distinct OR values of all subarrays ending at the previous index (i-1). Initially, it's empty.
+    Iterate through each element x in the input array arr:
+    a. Create a new temporary set, next_ors, to store the ORs of subarrays ending at the current element x.
+    b. The OR of a subarray of just [x] is x itself. So, add x to next_ors.
+    c. For each previous OR value y in current_ors, calculate the new OR value x | y. This represents extending all subarrays that ended at the previous element with the current element x. Add this new value to next_ors.
+    d. Now, next_ors contains all possible ORs for subarrays ending at the current position. Add all of these values to our global result_ors set.
+    e. For the next iteration, the next_ors becomes the current_ors. So, update current_ors = next_ors.
+    After iterating through the entire array, the size of result_ors is the answer.
+
+Visual Explanation (A Clearer Walkthrough)
+
+Let's trace the algorithm with the input arr = [1, 2, 4].
+
+We need two main sets:
+
+    result_ors: Our master set that collects all unique ORs we find.
+    current_ors: A temporary set holding the ORs of subarrays ending at the previous element.
+
+Initial State:
+
+    result_ors = {}
+    current_ors = {}
+
+Here's a step-by-step breakdown in a table format:
+Element	current_ors (start of step)	next_ors (initial)	Calculations (x OR y)	next_ors (after calculations)	result_ors (updated)	current_ors (end of step)
+arr[0] = 1	{}	{1}	(No y in current_ors)	{1}	{1}	{1}
+arr[1] = 2	{1}	{2}	2 OR 1 = 3	{2, 3}	{1, 2, 3}	{2, 3}
+arr[2] = 4	{2, 3}	{4}	4 OR 2 = 6
+4 OR 3 = 7	{4, 6, 7}	{1, 2, 3, 4, 6, 7}	{4, 6, 7}
+Final Result
+
+After iterating through the whole array, our final set is:
+result_ors = {1, 2, 3, 4, 6, 7}
+
+The number of distinct ORs is the size of this set, which is 6.
+Complexity Analysis
+
+    Time Complexity: O(N * B)
+        We iterate through the array of size N once.
+        In each iteration, we compute next_ors. The size of current_ors is bounded by B, the number of bits in an integer (e.g., 32). This is because a new value is added to the set only if a new bit is set, which can happen at most B times.
+        Therefore, the inner loop (iterating over current_ors) runs at most B times.
+        This gives a total time complexity of O(N * B).
+
+    Space Complexity: O(N * B)
+        current_ors and next_ors require O(B) space.
+        The result_ors set stores all unique OR values. In the worst case, each of the N steps could introduce up to B new values. So, the size of result_ors can be at most O(N * B). This gives us the overall space complexity.
+
+Code
+
+import java.util.HashSet;
+import java.util.Set;
+
+class Solution {
+    public int subarrayBitwiseORs(int[] arr) {
+        // This set will store all unique OR values found across all subarrays.
+        Set<Integer> resultOrs = new HashSet<>();
+        
+        // This set stores the distinct ORs of all subarrays ending at the previous position.
+        Set<Integer> currentOrs = new HashSet<>();
+
+        for (int x : arr) {
+            // `nextOrs` will store the ORs of subarrays ending at the current element `x`.
+            Set<Integer> nextOrs = new HashSet<>();
+            
+            // The subarray of just the element x gives an OR of x.
+            nextOrs.add(x);
+
+            // Compute new ORs by extending previous subarrays with the current element x.
+            for (int y : currentOrs) {
+                nextOrs.add(x | y);
+            }
+
+            // Add all newly found ORs to the main result set.
+            resultOrs.addAll(nextOrs);
+            
+            // For the next iteration, the current results become the previous results.
+            currentOrs = nextOrs;
+        }
+
+        return resultOrs.size();
+    }
+}
+
