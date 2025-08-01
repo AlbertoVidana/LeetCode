@@ -1,59 +1,63 @@
+Pascal triangle || Easy || beat 82% || Java || Spanish || English
 
-Pascal's Triangle can be generated in Java by understanding its fundamental property: each number is the sum of the two numbers directly above it, and the edges of each row are always 1.
-Here's a common approach to generate Pascal's Triangle in Java:
-Java
+Alberto
 
-import java.util.ArrayList;
-import java.util.List;
+It involves adding the cells directly above the current cell. To do this, we'll use a two-level nested for loop: the first for depth and the second for length.
+The first step would be to copy the previous list and, based on this, add the positions of the cells above our current cell, adding them together.
+Remember that both the first and last cells will always be one.
 
-public class PascalTriangle {
+Voy a poner la esplicacion en Español al final! si tienes problemas para entender los pasos a seguir porfavor comentalo pero creo que el codigo lo explica por si solo.
+Approach
 
-    public static List<List<Integer>> generate(int numRows) {
+    An ArrayList of ArrayLists (triangle) is created to store the rows of the triangle.
+
+    Base Case: The first row, which is always [1], is added directly.
+
+    Row Generation Loop: The code iterates from the second row up to numRows - 1.
+        In each iteration, it retrieves the prevRow from the triangle list.
+        A currentRow is initialized.
+        The first element of currentRow is always 1.
+        An inner loop calculates the middle elements of currentRow by summing adjacent elements from prevRow (prevRow.get(j - 1) + prevRow.get(j)).
+        The last element of currentRow is also 1.
+        Finally, the currentRow is added to the triangle.
+
+    Return Value: The complete triangle (a List of Lists) is returned.
+
+Complexity
+
+    Time complexity: O(n^2)
+
+    Space complexity: O(numRows^2)
+
+Code
+
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<>();
-
-        if (numRows <= 0) {
-            return triangle; // Return an empty list for 0 or negative rows
-        }
-
-        // First row is always [1]
         List<Integer> firstRow = new ArrayList<>();
         firstRow.add(1);
         triangle.add(firstRow);
-
-        // Generate subsequent rows
         for (int i = 1; i < numRows; i++) {
             List<Integer> prevRow = triangle.get(i - 1);
             List<Integer> currentRow = new ArrayList<>();
-
-            // First element of each row is 1
             currentRow.add(1);
-
-            // Calculate middle elements by summing elements from the previous row
             for (int j = 1; j < i; j++) {
                 currentRow.add(prevRow.get(j - 1) + prevRow.get(j));
             }
-
-            // Last element of each row is 1
             currentRow.add(1);
-
             triangle.add(currentRow);
         }
-
         return triangle;
-    }
-
-    public static void main(String[] args) {
-        int numRows = 5; // Example: Generate 5 rows of Pascal's Triangle
-        List<List<Integer>> pascalTriangle = generate(numRows);
-
-        // Print the generated triangle
-        for (List<Integer> row : pascalTriangle) {
-            System.out.println(row);
-        }
     }
 }
 
-Explanation:
+Spanish
+
+    Se trata de sumar las celdas que se encuentren directamente arriba de la selda en la que estamos para eso usaremos un for loop anidado de dos nibeles, el primero para la profundidad y el segundo para la longuitud.
+    primero seria copiar la lista anterior y en base a esta sumar la posicion de las casillas que esten arriba de nuestra casilla actual, sumandolas.
+    Recordemos que tanto la primera como la ultima celda siempre seran uno.
+
+                         Buena suerte!!!
 
     Initialization: An ArrayList of ArrayLists (triangle) is created to store the rows of the triangle.
     Base Case: The first row, which is always [1], is added directly.
