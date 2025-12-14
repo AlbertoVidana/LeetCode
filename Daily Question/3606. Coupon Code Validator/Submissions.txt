@@ -1,0 +1,16 @@
+Status              Languaje    Runtime     Memory      Notes
+
+5   Accepted  
+    6 hours ago     Java        17 ms       47.7 MB
+
+4   Accepted
+    Jul 06, 2025    Java        17 ms       45.9 MB
+
+3   Accepted    
+    Jul 05, 2025    Java        17 ms       45.5 MB
+
+2   Wrong Answer
+    Jul 05, 2025    Java        N/A         N/A 
+
+1   Wrong Answer    
+    Jul 05, 2025    Java        N/A         N/A
