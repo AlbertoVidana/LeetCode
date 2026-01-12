@@ -1,0 +1,49 @@
+2026.01.12 17:00:17 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.12 17:00:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:21 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.01.12 17:00:21 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+ene 12, 2026 5:00:21 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+ene 12, 2026 5:00:21 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.01.12 17:00:21 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:21 WARN  Build server is not auto-connectable.
+2026.01.12 17:00:21 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java
+2026.01.12 17:00:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:25 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java
+2026.01.12 17:00:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:27 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1266.%20Minimum%20Time%20Visiting%20All%20Points/Solution.java. Output:
+
+2026.01.12 17:00:27 INFO  time: code lens generation in 1.08s
+2026.01.12 17:00:27 INFO  time: code lens generation in 5.98s
+2026.01.12 17:00:27 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:27 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:28 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.01.12 17:00:27 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:28 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.01.12 17:00:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:29 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.01.12 17:00:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:32 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+ene 12, 2026 5:00:32 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.01.12 17:00:32 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:32 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.01.12 17:00:32 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:34 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.01.12 17:00:34 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1266.%20Minimum%20Time%20Visiting%20All%20Points/Solution.java. Output:
+
+2026.01.12 17:00:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+2026.01.12 17:00:34 INFO  time: code lens generation in 1.12s
+2026.01.12 17:00:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java. Using fallback presentation compiler.
+ene 12, 2026 5:00:56 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.01.12 17:04:08 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1266. Minimum Time Visiting All Points/Solution.java
