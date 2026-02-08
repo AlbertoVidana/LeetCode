@@ -69,3 +69,31 @@ WARNING: Unmatched cancel notification for request id 1
 ene 26, 2026 5:00:52 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.01.26 17:04:04 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1200. Minimum Absolute Difference/Solution.java
+2026.01.26 17:04:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1200. Minimum Absolute Difference/Solution.java. Using fallback presentation compiler.
+2026.01.26 17:04:37 INFO  Shutting down server
+2026.01.26 17:04:37 INFO  Memory monitor stopped
+2026.01.26 17:04:37 INFO  shutting down Metals
+2026.01.26 17:04:37 INFO  Exiting server
+2026.02.08 17:21:06 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.108.2.
+2026.02.08 17:21:06 INFO  Memory monitor started
+2026.02.08 17:21:14 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.08 17:21:15 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java. Using fallback presentation compiler.
+2026.02.08 17:21:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java. Using fallback presentation compiler.
+feb 08, 2026 5:21:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+feb 08, 2026 5:21:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+feb 08, 2026 5:21:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+feb 08, 2026 5:21:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.08 17:21:20 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.08 17:21:20 WARN  Build server is not auto-connectable.
+2026.02.08 17:21:20 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java
+2026.02.08 17:21:23 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/110.%20Balanced%20Binary%20Tree/Solution.java. Output:
+
+2026.02.08 17:21:23 INFO  time: code lens generation in 2.96s
+2026.02.08 17:21:23 INFO  time: code lens generation in 2.95s
+feb 08, 2026 5:21:30 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.08 17:24:10 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java
