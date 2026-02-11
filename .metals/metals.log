@@ -97,3 +97,50 @@ WARNING: Unmatched cancel notification for request id 1
 feb 08, 2026 5:21:30 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.02.08 17:24:10 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java
+2026.02.08 17:24:57 INFO  Shutting down server
+2026.02.08 17:24:57 INFO  Memory monitor stopped
+2026.02.08 17:24:57 INFO  shutting down Metals
+2026.02.08 17:24:57 INFO  Exiting server
+2026.02.11 17:37:47 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.108.2.
+2026.02.11 17:37:47 INFO  Memory monitor started
+2026.02.11 17:37:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.11 17:37:59 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+feb 11, 2026 5:38:03 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.02.11 17:38:03 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+2026.02.11 17:38:03 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+2026.02.11 17:38:03 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.11 17:38:03 WARN  Build server is not auto-connectable.
+2026.02.11 17:38:03 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java
+2026.02.11 17:38:03 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java
+2026.02.11 17:38:03 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+2026.02.11 17:38:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+feb 11, 2026 5:38:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+feb 11, 2026 5:38:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+feb 11, 2026 5:38:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+feb 11, 2026 5:38:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+feb 11, 2026 5:38:04 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.11 17:38:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java. Using fallback presentation compiler.
+feb 11, 2026 5:38:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+feb 11, 2026 5:38:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+feb 11, 2026 5:38:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+feb 11, 2026 5:38:05 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.11 17:38:06 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/3719.%20Longest%20Balanced%20Subarray%20I/Solution.java. Output:
+
+2026.02.11 17:38:06 INFO  time: code lens generation in 2.53s
+2026.02.11 17:38:06 INFO  time: code lens generation in 1.36s
+2026.02.11 17:38:06 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/110.%20Balanced%20Binary%20Tree/Solution.java. Output:
+
+feb 11, 2026 5:38:17 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.11 17:40:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/110. Balanced Binary Tree/Solution.java. Using fallback presentation compiler.
+2026.02.11 17:40:45 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3719. Longest Balanced Subarray I/Solution.java
