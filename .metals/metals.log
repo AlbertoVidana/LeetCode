@@ -201,3 +201,5 @@ feb 15, 2026 11:16:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancel
 WARNING: Unmatched cancel notification for request id 14
 2026.02.15 23:16:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/67. Add Binary/Solution.java. Using fallback presentation compiler.
 2026.02.15 23:19:45 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/67. Add Binary/Solution.java
+2026.02.15 23:19:45 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/67.%20Add%20Binary/Solution.java. Output:
+
