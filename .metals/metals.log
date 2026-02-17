@@ -23,3 +23,20 @@ WARNING: Unmatched cancel notification for request id 1
 feb 17, 2026 5:04:02 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.02.17 17:05:45 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/190. Reverse Bits/Solution.java
+2026.02.17 17:21:02 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java
+2026.02.17 17:21:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:03 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:03 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/401.%20Binary%20Watch/Solution.java. Output:
+
+2026.02.17 17:21:03 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/401.%20Binary%20Watch/Solution.java. Output:
+
+2026.02.17 17:21:03 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java
+2026.02.17 17:21:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:08 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:08 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:08 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:09 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:21:20 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/401.%20Binary%20Watch/Solution.java. Output:
+
+2026.02.17 17:22:57 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java
