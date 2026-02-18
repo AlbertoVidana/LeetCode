@@ -40,3 +40,19 @@ INFO: Unsupported notification method: $/setTrace
 2026.02.17 17:21:20 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/401.%20Binary%20Watch/Solution.java. Output:
 
 2026.02.17 17:22:57 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/401. Binary Watch/Solution.java
+2026.02.17 17:23:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/190. Reverse Bits/Solution.java. Using fallback presentation compiler.
+2026.02.17 17:23:21 INFO  Shutting down server
+2026.02.17 17:23:21 INFO  Memory monitor stopped
+2026.02.17 17:23:21 INFO  shutting down Metals
+2026.02.17 17:23:21 INFO  Exiting server
+2026.02.18 14:22:06 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.4.
+2026.02.18 14:22:06 INFO  Memory monitor started
+2026.02.18 14:22:09 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.18 14:22:10 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.18 14:22:10 WARN  Build server is not auto-connectable.
+2026.02.18 14:22:11 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/693. Binary Number with Alternating Bits/Solution.java
+feb 18, 2026 2:22:11 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.18 14:22:13 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/693.%20Binary%20Number%20with%20Alternating%20Bits/Solution.java. Output:
+
+2026.02.18 14:24:38 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/693. Binary Number with Alternating Bits/Solution.java
