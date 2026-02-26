@@ -124,3 +124,25 @@ feb 25, 2026 4:25:48 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint not
 INFO: Unsupported notification method: $/setTrace
 2026.02.25 16:26:42 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/868. Binary Gap/Solution.java. Using fallback presentation compiler.
 2026.02.25 16:27:30 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1022. Sum of Root To Leaf Binary Numbers/Solution.java
+2026.02.25 16:40:34 INFO  Shutting down server
+2026.02.25 16:40:34 INFO  Memory monitor stopped
+2026.02.25 16:40:34 INFO  shutting down Metals
+2026.02.25 16:40:34 INFO  Exiting server
+2026.02.25 16:41:46 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.02.25 16:41:46 INFO  Memory monitor started
+2026.02.25 16:41:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.25 16:41:53 INFO  Shutting down server
+2026.02.25 16:41:53 INFO  Memory monitor stopped
+2026.02.25 16:41:53 INFO  shutting down Metals
+2026.02.25 16:41:53 INFO  Exiting server
+2026.02.26 17:06:56 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.02.26 17:06:56 INFO  Memory monitor started
+2026.02.26 17:07:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+feb 26, 2026 5:07:10 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.26 17:07:11 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.26 17:07:11 WARN  Build server is not auto-connectable.
+2026.02.26 17:07:11 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1356. Sort Integers by The Number of 1 Bits/Solution.java
+2026.02.26 17:07:17 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits/Solution.java. Output:
+
+2026.02.26 17:09:42 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1356. Sort Integers by The Number of 1 Bits/Solution.java
