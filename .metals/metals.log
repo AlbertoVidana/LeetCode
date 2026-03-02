@@ -185,3 +185,35 @@ WARNING: Unmatched cancel notification for request id 13
 feb 27, 2026 12:10:01 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.02.27 00:12:33 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1404. Number of Steps to Reduce a Number in Binary Representation to One/Solution.java
+2026.02.27 00:12:51 INFO  Shutting down server
+2026.02.27 00:12:51 INFO  Memory monitor stopped
+2026.02.27 00:12:51 INFO  shutting down Metals
+2026.02.27 00:12:51 INFO  Exiting server
+2026.02.27 00:14:08 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.02.27 00:14:08 INFO  Memory monitor started
+2026.02.27 00:14:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.27 00:14:13 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.27 00:14:13 WARN  Build server is not auto-connectable.
+2026.02.27 00:14:13 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1404. Number of Steps to Reduce a Number in Binary Representation to One/Solution.java
+2026.02.27 00:14:15 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/Solution.java. Output:
+
+2026.02.27 00:24:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1404. Number of Steps to Reduce a Number in Binary Representation to One/Solution.java. Using fallback presentation compiler.
+2026.02.27 00:24:54 INFO  Shutting down server
+2026.02.27 00:24:54 INFO  Memory monitor stopped
+2026.02.27 00:24:54 INFO  shutting down Metals
+2026.02.27 00:24:54 INFO  Exiting server
+2026.03.02 16:32:25 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.03.02 16:32:27 INFO  Memory monitor started
+2026.03.02 16:32:31 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.02 16:32:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java. Using fallback presentation compiler.
+2026.03.02 16:32:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java. Using fallback presentation compiler.
+2026.03.02 16:32:34 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.02 16:32:34 WARN  Build server is not auto-connectable.
+2026.03.02 16:32:34 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java
+2026.03.02 16:32:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java. Using fallback presentation compiler.
+2026.03.02 16:32:37 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/Solution.java. Output:
+
+2026.03.02 16:32:37 INFO  time: code lens generation in 2.51s
+mar 02, 2026 4:33:09 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.02 16:35:09 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java
