@@ -217,3 +217,18 @@ INFO: Unsupported notification method: $/setTrace
 mar 02, 2026 4:33:09 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.03.02 16:35:09 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers/Solution.java
+2026.03.02 23:05:18 INFO  Shutting down server
+2026.03.02 23:05:18 INFO  Memory monitor stopped
+2026.03.02 23:05:18 INFO  shutting down Metals
+2026.03.02 23:05:18 INFO  Exiting server
+2026.03.03 15:52:20 INFO  Started: Metals version 1.6.5 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.03.03 15:52:20 INFO  Memory monitor started
+2026.03.03 15:52:29 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+mar 03, 2026 3:52:30 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.03 15:52:31 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.03 15:52:31 WARN  Build server is not auto-connectable.
+2026.03.03 15:52:31 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1545. Find Kth Bit in Nth Binary String/Solution.java
+2026.03.03 15:52:34 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/Solution.java. Output:
+
+2026.03.03 15:54:16 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1545. Find Kth Bit in Nth Binary String/Solution.java
