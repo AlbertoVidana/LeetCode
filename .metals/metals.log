@@ -232,3 +232,47 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.03 15:52:34 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String/Solution.java. Output:
 
 2026.03.03 15:54:16 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1545. Find Kth Bit in Nth Binary String/Solution.java
+2026.03.03 15:55:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1545. Find Kth Bit in Nth Binary String/Solution.java. Using fallback presentation compiler.
+2026.03.03 15:55:08 INFO  Shutting down server
+2026.03.03 15:55:08 INFO  Memory monitor stopped
+2026.03.03 15:55:08 INFO  shutting down Metals
+2026.03.03 15:55:08 INFO  Exiting server
+2026.03.04 17:46:46 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.109.5.
+2026.03.04 17:46:46 INFO  Memory monitor started
+2026.03.04 17:46:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.04 17:46:52 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+mar 04, 2026 5:46:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+mar 04, 2026 5:46:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+mar 04, 2026 5:46:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+mar 04, 2026 5:46:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.04 17:46:54 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.04 17:46:54 WARN  Build server is not auto-connectable.
+2026.03.04 17:46:54 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java
+2026.03.04 17:46:55 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/Solution.java. Output:
+
+2026.03.04 17:46:55 INFO  time: code lens generation in 1.39s
+2026.03.04 18:06:13 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java
+2026.03.04 18:06:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+mar 04, 2026 6:06:14 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+mar 04, 2026 6:06:14 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.03.04 18:06:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:16 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:16 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix/Solution.java. Output:
+
+2026.03.04 18:06:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+mar 04, 2026 6:06:17 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.03.04 18:06:16 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+2026.03.04 18:06:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java. Using fallback presentation compiler.
+mar 04, 2026 6:07:20 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.04 18:09:27 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java
