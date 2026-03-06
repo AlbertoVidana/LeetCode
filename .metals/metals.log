@@ -276,3 +276,22 @@ WARNING: Unmatched cancel notification for request id 16
 mar 04, 2026 6:07:20 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.03.04 18:09:27 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1582. Special Positions in a Binary Matrix/Solution.java
+2026.03.04 18:09:58 INFO  Shutting down server
+2026.03.04 18:09:58 INFO  Memory monitor stopped
+2026.03.04 18:09:58 INFO  shutting down Metals
+2026.03.04 18:09:58 INFO  Exiting server
+2026.03.06 16:32:07 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.110.0.
+2026.03.06 16:32:07 INFO  Memory monitor started
+2026.03.06 16:32:11 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.06 16:32:11 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java. Using fallback presentation compiler.
+2026.03.06 16:32:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java. Using fallback presentation compiler.
+2026.03.06 16:32:14 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.06 16:32:14 WARN  Build server is not auto-connectable.
+2026.03.06 16:32:14 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java
+2026.03.06 16:32:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java. Using fallback presentation compiler.
+2026.03.06 16:32:16 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/Solution.java. Output:
+
+2026.03.06 16:32:16 INFO  time: code lens generation in 2.3s
+mar 06, 2026 4:33:06 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.06 16:35:40 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java
