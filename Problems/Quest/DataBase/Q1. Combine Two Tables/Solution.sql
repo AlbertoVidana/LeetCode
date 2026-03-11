@@ -1,0 +1,5 @@
+-- Write your PostgreSQL query statement below
+select p.firstname, p.lastname, a.city, a.state
+from person p
+left join address a
+on a.personId = p.personId;

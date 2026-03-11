@@ -1,0 +1,203 @@
+Q2. Employees Earning More Than Their Managers
+Solved
+Easy
+Topics
+premium lock iconCompanies
+SQL Schema
+Pandas Schema
+
+Table: Employee
+
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| name        | varchar |
+| salary      | int     |
+| managerId   | int     |
++-------------+---------+
+id is the primary key (column with unique values) for this table.
+Each row of this table indicates the ID of an employee, their name, salary, and the ID of their manager.
+
+ 
+
+Write a solution to find the employees who earn more than their managers.
+
+Return the result table in any order.
+
+The result format is in the following example.
+
+ 
+
+Example 1:
+
+Input: 
+Employee table:
++----+-------+--------+-----------+
+| id | name  | salary | managerId |
++----+-------+--------+-----------+
+| 1  | Joe   | 70000  | 3         |
+| 2  | Henry | 80000  | 4         |
+| 3  | Sam   | 60000  | Null      |
+| 4  | Max   | 90000  | Null      |
++----+-------+--------+-----------+
+Output: 
++----------+
+| Employee |
++----------+
+| Joe      |
++----------+
+Explanation: Joe is the only employee who earns more than his manager.
+
+ 
+Seen this question in a real interview before?
+1/5
+Yes
+No
+Accepted
+1,108,508/1.5M
+Acceptance Rate
+72.9%
+Topics
+Database
+icon
+Companies
+Discussion (148)
+💡 Discussion Rules
+
+1. Please don't post any solutions in this discussion.
+
+2. The problem discussion is for asking questions about the problem or for sharing tips - anything except for solutions.
+
+3. If you'd like to share your solution for feedback and ideas, please head to the solutions tab and post it there.
+user4155ah
+Jul 26, 2023
+
+Help me on this there only one Employee table and I dont even know who is Joe's manager..
+ 
+131
+Show 18 Replies
+Reply
+Edoc
+Aug 26, 2019
+
+Here's the Mandarin Chinese version to explain this problem by two methods in MySQL.
+
+LeetCode DataBase SQL 觀念解析(03): #181 Employees Earning More Than Their Managers
+
+Welcome to discuss together & hope it will help for you!
+ 
+Read more
+comment-image-0
+112
+Show 5 Replies
+Reply
+Abhay Sagar
+Jan 22, 2023
+
+confusing question
+ 
+73
+Show 2 Replies
+Reply
+Shibishwar Sukumar
+May 23, 2025
+
+Use Self-Join to Compare Employees with Their Managers
+
+Since both employees and managers are stored in the same Employee table, using a self-join is a clean and effective way to compare their salaries.
+
+By joining the table to itself on managerId = id, you can easily align each employee with their manager and apply any necessary comparisons - like checking if the employee earns more.
+
+This approach avoids subqueries and keeps the logic simple and readable.
+
+Hope this helps clarify the direction for anyone thinking about how to get started!
+ 
+Tip
+28
+Show 1 Replies
+Reply
+amaan_mullla
+Sep 08, 2025
+
+Step by Step Matching
+
+Joe (id=1) → managerId=3 → Manager = Sam (salary 60000)
+→ Joe (70000) > Sam (60000) ✅ (Joe select hoga)
+
+Henry (id=2) → managerId=4 → Manager = Max (salary 90000)
+→ Henry (80000) < Max (90000) ❌ (Henry skip hoga)
+
+Sam (id=3) → managerId=NULL → No manager → ❌
+
+Max (id=4) → managerId=NULL → No manager → ❌
+ 
+12
+Show 5 Replies
+Reply
+exanode
+SQL I
+May 29, 2022
+
+Question :
+Table: Employee
+
++-------------+---------+
+| Column Name | Type |
++-------------+---------+
+| id | int |
+| name | varchar |
+| salary | int |
+| managerId | int |
++-------------+---------+
+id is the primary key column for this table.
+Each row of this table indicates the ID of an employee, their name, salary, and the ID of their manager.
+
+Write an SQL query to find the employees who earn more than their managers.
+
+Return the result table in any order.
+
+The query result format is in the following example.
+
+Answer :
+select e1.name Employee from Employee e1
+where e1.salary > (select e2.salary from employee e2 where e2.id = e1.managerid)
+ 
+Read more
+11
+Show 4 Replies
+Reply
+jacobcrosby101
+Dec 21, 2023
+
+This table is obviously not normalized because the Employee.managerId references the Employee.id which is confusing and not best practice. I was confused about this as well. Good Lord!
+ 
+7
+Show 3 Replies
+Reply
+neeli_bhandhavya
+Sep 03, 2025
+
+WHERE THE HECK IS THAT MANAGER TABLE ? how could i get to knowwww
+ 
+5
+Show 5 Replies
+Reply
+Subhash Chandra
+50 Days Badge 2022
+May 04, 2022
+
+select e.name as Employee from Employee e inner join Employee m
+on e.managerId = m.id where e.salary > m.salary;
+ 
+4
+Reply
+Himanshu
+Aug 03, 2025
+
+there is no information about the manager salary
+as i can see here
+ 
+3
+Show 2 Replies
+Reply
