@@ -322,3 +322,61 @@ WARNING: Unmatched cancel notification for request id 24
 WARNING: Unmatched cancel notification for request id 28
 
 2026.03.09 23:58:57 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java
+2026.03.10 00:12:02 INFO  Shutting down server
+2026.03.10 00:12:02 INFO  Memory monitor stopped
+2026.03.10 00:12:02 INFO  shutting down Metals
+2026.03.10 00:12:02 INFO  Exiting server
+2026.03.10 17:32:48 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.111.0.
+2026.03.10 17:32:48 INFO  Memory monitor started
+2026.03.10 17:32:53 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.10 17:32:54 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.10 17:32:54 WARN  Build server is not auto-connectable.
+2026.03.10 17:32:54 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java
+2026.03.10 17:32:56 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/Solution.java. Output:
+
+2026.03.10 18:21:01 INFO  Shutting down server
+2026.03.10 18:21:01 INFO  Memory monitor stopped
+2026.03.10 18:21:01 INFO  shutting down Metals
+2026.03.10 18:21:01 INFO  Exiting server
+2026.03.10 20:36:07 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.111.0.
+2026.03.10 20:36:07 INFO  Memory monitor started
+2026.03.10 20:36:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.10 20:36:15 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+mar 10, 2026 8:36:17 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.10 20:36:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:36:18 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.10 20:36:18 WARN  Build server is not auto-connectable.
+2026.03.10 20:36:18 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java
+2026.03.10 20:36:18 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java
+2026.03.10 20:36:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:36:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:36:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.03.10 20:36:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+mar 10, 2026 8:36:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.03.10 20:36:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:36:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:36:20 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/3129.%20Find%20All%20Possible%20Stable%20Binary%20Arrays%20I/Solution.java. Output:
+
+2026.03.10 20:36:20 INFO  time: code lens generation in 1.98s
+2026.03.10 20:36:20 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/Solution.java. Output:
+
+2026.03.10 20:36:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:37:51 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.10 20:38:49 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1784. Check if Binary String Has at Most One Segment of Ones/Solution.java. Using fallback presentation compiler.
+2026.03.11 01:01:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.11 01:01:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+2026.03.11 01:01:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3129. Find All Possible Stable Binary Arrays I/Solution.java. Using fallback presentation compiler.
+mar 11, 2026 1:01:40 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
