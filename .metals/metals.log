@@ -413,3 +413,488 @@ WARNING: Unmatched cancel notification for request id 13
 2026.03.12 17:29:43 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3600. Maximize Spanning Tree Stability with Upgrades/Solution.java. Using fallback presentation compiler.
 2026.03.12 17:29:43 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3600. Maximize Spanning Tree Stability with Upgrades/Solution.java
 2026.03.12 17:29:43 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3600. Maximize Spanning Tree Stability with Upgrades/Solution.java. Using fallback presentation compiler.
+2026.03.12 17:31:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3600. Maximize Spanning Tree Stability with Upgrades/Solution.java. Using fallback presentation compiler.
+2026.03.12 17:31:33 INFO  Shutting down server
+2026.03.12 17:31:33 INFO  Memory monitor stopped
+2026.03.12 17:31:33 INFO  shutting down Metals
+2026.03.12 17:31:33 INFO  Exiting server
+2026.03.15 17:51:08 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.111.0.
+2026.03.15 17:51:08 INFO  Memory monitor started
+2026.03.15 17:51:11 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.15 17:51:12 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.15 17:51:12 WARN  Build server is not auto-connectable.
+2026.03.15 17:51:12 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
+2026.03.15 17:51:14 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:09:51 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java
+2026.03.15 18:09:51 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:51 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+2026.03.15 18:09:51 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:09:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java
+mar 15, 2026 6:09:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+mar 15, 2026 6:09:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:09:53 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:53 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:55 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:09:55 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.03.15 18:09:55 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+2026.03.15 18:09:55 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:09:57 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:04 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:06 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:07 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
+mar 15, 2026 6:10:07 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2026.03.15 18:10:06 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:07 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:07 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+2026.03.15 18:10:07 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:07 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:07 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:10 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java
+2026.03.15 18:10:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2026.03.15 18:10:11 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:13 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:17 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 64
+2026.03.15 18:10:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:17 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+mar 15, 2026 6:10:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+2026.03.15 18:10:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:19 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+2026.03.15 18:10:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:21 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
+2026.03.15 18:10:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:23 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:25 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:25 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:26 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:26 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:26 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:26 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:29 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:31 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 149
+mar 15, 2026 6:10:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 151
+2026.03.15 18:10:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:33 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:35 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 174) out of bounds for length 1086
+java.lang.StringIndexOutOfBoundsException: Range [-1, 174) out of bounds for length 1086
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4963)
+	at java.base/java.lang.String.substring(String.java:2925)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.15 18:10:34 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:35 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 174) out of bounds for length 1086
+java.lang.StringIndexOutOfBoundsException: Range [-1, 174) out of bounds for length 1086
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4963)
+	at java.base/java.lang.String.substring(String.java:2925)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.15 18:10:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:35 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:37 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:38 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+2026.03.15 18:10:38 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:39 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:40 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/Solution.java. Output:
+
+2026.03.15 18:10:41 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:44 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:44 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:44 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java
+2026.03.15 18:10:44 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:44 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:44 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 215
+2026.03.15 18:10:44 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:46 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:46 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:46 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:47 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 223) out of bounds for length 1155
+java.lang.StringIndexOutOfBoundsException: Range [-1, 223) out of bounds for length 1155
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4963)
+	at java.base/java.lang.String.substring(String.java:2925)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:47 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 228
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:48 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 223) out of bounds for length 1155
+java.lang.StringIndexOutOfBoundsException: Range [-1, 223) out of bounds for length 1155
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4963)
+	at java.base/java.lang.String.substring(String.java:2925)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:48 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Range [-1, 223) out of bounds for length 1155
+java.lang.StringIndexOutOfBoundsException: Range [-1, 223) out of bounds for length 1155
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112)
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349)
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4963)
+	at java.base/java.lang.String.substring(String.java:2925)
+	at scala.meta.internal.pc.JavaMetalsGlobal.findIndentifierStartAndEnd(JavaMetalsGlobal.scala:87)
+	at scala.meta.internal.pc.JavaMetalsGlobal.isAtIdentifier(JavaMetalsGlobal.scala:137)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.atIdentifier$1(JavaDocumentHighlightProvider.scala:53)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:55)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.15 18:10:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:50 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+2026.03.15 18:10:52 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:52 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:52 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java. Using fallback presentation compiler.
+2026.03.15 18:10:52 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/1622.%20Fancy%20Sequence/WorkingSolution.java. Output:
+
+2026.03.15 18:10:54 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:54 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
+2026.03.15 18:10:54 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:10:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 261
+mar 15, 2026 6:10:54 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 262
+2026.03.15 18:10:54 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:54 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:55 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:10:54 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:01 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:01 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:06 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/WorkingSolution.java
+2026.03.15 18:11:06 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:06 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
+2026.03.15 18:11:06 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:06 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+mar 15, 2026 6:11:08 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.15 18:11:39 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java. Using fallback presentation compiler.
+2026.03.15 18:11:39 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1622. Fancy Sequence/Solution.java
