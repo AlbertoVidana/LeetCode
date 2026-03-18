@@ -964,3 +964,38 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.17 21:52:03 INFO  Memory monitor stopped
 2026.03.17 21:52:03 INFO  shutting down Metals
 2026.03.17 21:52:03 INFO  Exiting server
+2026.03.18 16:49:31 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.111.0.
+2026.03.18 16:49:31 INFO  time: initialize in 0.14s
+2026.03.18 16:49:31 INFO  Memory monitor started
+2026.03.18 16:49:45 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.18 16:49:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+mar 18, 2026 4:49:48 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.18 16:49:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+2026.03.18 16:49:49 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.18 16:49:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+2026.03.18 16:49:49 WARN  Build server is not auto-connectable.
+2026.03.18 16:49:49 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.03.18 16:49:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+2026.03.18 16:49:48 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+mar 18, 2026 4:49:49 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.18 16:49:52 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/3070.%20Count%20Submatrices%20with%20Top-Left%20Element%20and%20Sum%20Less%20Than%20k/Soulution.java. Output:
+
+2026.03.18 16:49:52 INFO  time: code lens generation in 2.31s
+2026.03.18 16:49:52 INFO  time: code lens generation in 2.95s
+mar 18, 2026 4:49:52 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.18 16:51:44 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java
