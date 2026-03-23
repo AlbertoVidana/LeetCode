@@ -1,0 +1,56 @@
+Accepted
+92 / 92 testcases passed
+Alberto
+Alberto
+submitted at Mar 23, 2026 17:28
+approachApproach
+efficiencyEfficiency
+codeStyleCode Style
+Congratulations! You passed this attempt. While not your first submission overall, it is your first time tackling this specific array manipulation pattern, and you executed it flawlessly!
+approachApproach
+Current:
+Array/
+Simulation
+Suggested:
+Array/
+Simulation
+Key Idea:Constructing a new array by concatenating the input array with itself using index mapping.
+ 
+Runtime
+1ms
+Beats96.38%
+Memory
+47.40MB
+Beats30.40%
+efficiencyEfficiency
+Current complexity:
+O(N)O(N)
+Suggested complexity:
+O(N)O(N)
+Suggestions:Your solution is already optimal in terms of asymptotic complexity. No further algorithmic changes are needed.
+ 
+O(N)O(N)
+Code
+Java
+
+class Solution {
+    public int[] getConcatenation(int[] nums) {
+        int n = nums.length;
+        int n2 = n * 2;
+        int[] ans = new int[n2];
+        for (int i = 0; i < n; i++) {
+            ans[i] = nums[i];
+        }
+        for (int i = n; i < n2; i++) {
+            ans[i] = nums[i - n];
+        }
+        return ans;
+    }
+}
+
+View more
+ 
+Code StyleCode Style
+Readability:
+Structure:
+Suggestions:The code is exceptionally clean with clear variable names and logical separation. It sets a great standard for readability.

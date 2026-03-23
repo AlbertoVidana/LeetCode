@@ -999,3 +999,19 @@ WARNING: Unmatched cancel notification for request id 1
 mar 18, 2026 4:49:52 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.03.18 16:51:44 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java
+2026.03.18 16:52:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3070. Count Submatrices with Top-Left Element and Sum Less Than k/Soulution.java. Using fallback presentation compiler.
+2026.03.18 17:27:59 INFO  Shutting down server
+2026.03.18 17:27:59 INFO  Memory monitor stopped
+2026.03.18 17:27:59 INFO  shutting down Metals
+2026.03.18 17:27:59 INFO  Exiting server
+2026.03.23 17:34:20 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.111.0.
+2026.03.23 17:34:20 INFO  Memory monitor started
+2026.03.23 17:34:25 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.23 17:34:27 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.23 17:34:27 WARN  Build server is not auto-connectable.
+2026.03.23 17:34:27 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q1. Concatenation of Array/Solution.java
+2026.03.23 17:34:29 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data%20Structures%20and%20Algorithms/Array%20I/Q1.%20Concatenation%20of%20Array/Solution.java. Output:
+
+mar 23, 2026 5:35:48 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.23 17:37:22 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q1. Concatenation of Array/Solution.java
