@@ -1015,3 +1015,34 @@ INFO: Unsupported notification method: $/setTrace
 mar 23, 2026 5:35:48 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.03.23 17:37:22 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q1. Concatenation of Array/Solution.java
+2026.03.24 17:34:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q1. Concatenation of Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:00 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java
+2026.03.24 17:35:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:01 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data%20Structures%20and%20Algorithms/Array%20I/Q2.%20Shuffle%20the%20Array/Solution.java. Output:
+
+2026.03.24 17:35:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+mar 24, 2026 5:35:02 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.24 17:35:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:02 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:03 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java
+mar 24, 2026 5:35:03 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.03.24 17:35:03 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:03 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data%20Structures%20and%20Algorithms/Array%20I/Q2.%20Shuffle%20the%20Array/Solution.java. Output:
+
+2026.03.24 17:35:08 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:09 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:09 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:35:12 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+mar 24, 2026 5:35:12 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+mar 24, 2026 5:35:12 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.03.24 17:35:12 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java. Using fallback presentation compiler.
+2026.03.24 17:36:43 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data Structures and Algorithms/Array I/Q2. Shuffle the Array/Solution.java
+2026.03.24 17:36:43 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Problems/Quest/Data%20Structures%20and%20Algorithms/Array%20I/Q2.%20Shuffle%20the%20Array/Solution.java. Output:
+
