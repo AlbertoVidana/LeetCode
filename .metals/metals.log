@@ -134,3 +134,5 @@ WARNING: Unmatched cancel notification for request id 41
 abr 05, 2026 10:02:13 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.04.05 22:04:22 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
+2026.04.05 22:04:22 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/657.%20Robot%20Return%20to%20Origin/Solution.java. Output:
+
