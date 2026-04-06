@@ -136,3 +136,41 @@ INFO: Unsupported notification method: $/setTrace
 2026.04.05 22:04:22 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
 2026.04.05 22:04:22 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/657.%20Robot%20Return%20to%20Origin/Solution.java. Output:
 
+2026.04.05 22:08:32 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:08:33 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
+abr 05, 2026 10:08:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.04.05 22:08:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:10:21 INFO  Shutting down server
+2026.04.05 22:10:21 INFO  Memory monitor stopped
+2026.04.05 22:10:21 INFO  shutting down Metals
+2026.04.05 22:10:21 INFO  Exiting server
+2026.04.05 22:11:10 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.113.0.
+2026.04.05 22:11:10 INFO  Memory monitor started
+2026.04.05 22:11:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 22:11:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:11:14 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 22:11:14 WARN  Build server is not auto-connectable.
+2026.04.05 22:11:14 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
+2026.04.05 22:11:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:11:15 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/657.%20Robot%20Return%20to%20Origin/Solution.java. Output:
+
+2026.04.05 22:11:15 INFO  time: code lens generation in 1.5s
+2026.04.05 22:30:17 INFO  Shutting down server
+2026.04.05 22:30:17 INFO  Memory monitor stopped
+2026.04.05 22:30:17 INFO  shutting down Metals
+2026.04.05 22:30:17 INFO  Exiting server
+2026.04.05 22:31:13 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.113.0.
+2026.04.05 22:31:13 INFO  Memory monitor started
+2026.04.05 22:31:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 22:31:21 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 22:31:21 WARN  Build server is not auto-connectable.
+2026.04.05 22:31:21 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
+2026.04.05 22:31:24 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/657.%20Robot%20Return%20to%20Origin/Solution.java. Output:
+
+abr 05, 2026 10:31:28 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.05 22:32:10 INFO  Shutting down server
+2026.04.05 22:32:10 INFO  Memory monitor stopped
+2026.04.05 22:32:10 INFO  shutting down Metals
+2026.04.05 22:32:10 INFO  Exiting server
