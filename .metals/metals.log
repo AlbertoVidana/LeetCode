@@ -9,3 +9,128 @@
 mar 31, 2026 5:09:00 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.03.31 17:10:35 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java
+2026.03.31 17:11:37 INFO  Shutting down server
+2026.03.31 17:11:37 INFO  Memory monitor stopped
+2026.03.31 17:11:37 INFO  shutting down Metals
+2026.03.31 17:11:37 INFO  Exiting server
+2026.03.31 21:55:06 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.113.0.
+2026.03.31 21:55:06 INFO  Memory monitor started
+2026.03.31 21:55:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.31 21:55:14 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:16 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:16 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.31 21:55:16 WARN  Build server is not auto-connectable.
+2026.03.31 21:55:16 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java
+2026.03.31 21:55:17 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Quest/Data%20Structures%20and%20Algorithms/Array%20II/Q2.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java. Output:
+
+mar 31, 2026 9:55:17 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+mar 31, 2026 9:55:17 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:17 INFO  time: code lens generation in 1.02s
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:18 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Quest/Data%20Structures%20and%20Algorithms/Array%20II/Q2.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java. Output:
+
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+mar 31, 2026 9:55:18 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 9:55:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+mar 31, 2026 9:55:19 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 21:55:19 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Quest/Data%20Structures%20and%20Algorithms/Array%20II/Q2.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java. Output:
+
+2026.03.31 21:55:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.03.31 22:20:32 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+mar 31, 2026 10:20:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2026.03.31 22:20:32 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:18 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:21 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:21 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:21 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:24 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Quest/Data%20Structures%20and%20Algorithms/Array%20II/Q2.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java. Output:
+
+2026.04.01 09:52:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:26 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Quest/Data%20Structures%20and%20Algorithms/Array%20II/Q2.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java. Output:
+
+2026.04.01 09:52:26 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:28 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java
+2026.04.01 09:52:28 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Quest/Data Structures and Algorithms/Array II/Q2. How Many Numbers Are Smaller Than the Current Number/Solution.java. Using fallback presentation compiler.
+2026.04.01 09:52:32 INFO  Shutting down server
+2026.04.01 09:52:32 INFO  Memory monitor stopped
+2026.04.01 09:52:32 INFO  shutting down Metals
+2026.04.01 09:52:32 INFO  Exiting server
+2026.04.05 22:01:09 INFO  Started: Metals version 1.6.6 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.113.0.
+2026.04.05 22:01:09 INFO  Memory monitor started
+2026.04.05 22:01:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.05 22:01:15 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:01:15 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.05 22:01:15 WARN  Build server is not auto-connectable.
+2026.04.05 22:01:15 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
+2026.04.05 22:01:17 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/657.%20Robot%20Return%20to%20Origin/Solution.java. Output:
+
+2026.04.05 22:01:17 INFO  time: code lens generation in 2.25s
+2026.04.05 22:01:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:01:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:01:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:01:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+2026.04.05 22:01:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java. Using fallback presentation compiler.
+abr 05, 2026 10:02:13 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.05 22:04:22 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/657. Robot Return to Origin/Solution.java
