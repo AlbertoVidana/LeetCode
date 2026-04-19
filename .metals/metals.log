@@ -190,3 +190,18 @@ WARNING: Unmatched cancel notification for request id 1
 abr 13, 2026 11:04:15 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.04.13 23:06:48 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/1848. Minimum Distance to the Target Element/Solution.java
+2026.04.14 01:32:46 INFO  Shutting down server
+2026.04.14 01:32:46 INFO  Memory monitor stopped
+2026.04.14 01:32:46 INFO  shutting down Metals
+2026.04.14 01:32:46 INFO  Exiting server
+2026.04.19 15:30:12 INFO  Started: Metals version 1.6.7 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.115.0.
+2026.04.19 15:30:12 INFO  Memory monitor started
+2026.04.19 15:30:18 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.19 15:30:21 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.19 15:30:21 WARN  Build server is not auto-connectable.
+2026.04.19 15:30:21 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3783. Mirror Distance of an Integer/Solution.java
+2026.04.19 15:30:24 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/3783.%20Mirror%20Distance%20of%20an%20Integer/Solution.java. Output:
+
+abr 19, 2026 3:32:04 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.19 15:34:46 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/3783. Mirror Distance of an Integer/Solution.java
