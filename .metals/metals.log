@@ -221,3 +221,38 @@ INFO: Unsupported notification method: $/setTrace
 abr 20, 2026 4:34:01 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.04.20 16:35:48 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2078. Two Furthest Houses With Different Colors/Solution.java
+2026.04.20 16:37:09 INFO  Shutting down server
+2026.04.20 16:37:09 INFO  Memory monitor stopped
+2026.04.20 16:37:09 INFO  shutting down Metals
+2026.04.20 16:37:09 INFO  Exiting server
+2026.04.20 16:37:56 INFO  Started: Metals version 1.6.7 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.116.0.
+2026.04.22 17:30:48 INFO  Started: Metals version 1.6.7 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.116.0.
+2026.04.22 17:30:48 INFO  Memory monitor started
+2026.04.22 17:30:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.22 17:30:58 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java. Using fallback presentation compiler.
+abr 22, 2026 5:30:59 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.22 17:31:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java. Using fallback presentation compiler.
+abr 22, 2026 5:31:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.22 17:31:00 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.22 17:31:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java. Using fallback presentation compiler.
+2026.04.22 17:31:00 WARN  Build server is not auto-connectable.
+2026.04.22 17:31:00 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java
+2026.04.22 17:31:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java. Using fallback presentation compiler.
+abr 22, 2026 5:31:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+abr 22, 2026 5:31:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+abr 22, 2026 5:31:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+abr 22, 2026 5:31:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.22 17:31:03 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/Solution.java. Output:
+
+2026.04.22 17:31:03 INFO  time: code lens generation in 2.84s
+2026.04.22 17:31:03 INFO  time: code lens generation in 2.84s
+2026.04.22 17:31:03 INFO  time: code lens generation in 3.09s
+abr 22, 2026 5:31:18 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.22 17:33:45 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java
