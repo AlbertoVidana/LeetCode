@@ -256,3 +256,102 @@ WARNING: Unmatched cancel notification for request id 1
 abr 22, 2026 5:31:18 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.04.22 17:33:45 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java
+2026.04.22 17:35:10 INFO  Shutting down server
+2026.04.22 17:35:10 INFO  Memory monitor stopped
+2026.04.22 17:35:10 INFO  shutting down Metals
+2026.04.22 17:35:10 INFO  Exiting server
+2026.04.24 16:46:43 INFO  Started: Metals version 1.6.7 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.116.0.
+2026.04.24 16:46:43 INFO  Memory monitor started
+2026.04.24 16:46:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.24 16:46:51 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.24 16:46:51 WARN  Build server is not auto-connectable.
+2026.04.24 16:46:51 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java
+2026.04.24 16:46:53 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/Solution.java. Output:
+
+2026.04.24 16:47:47 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java
+2026.04.24 16:47:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:48 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:47:47 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:47:50 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.24 16:47:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:50 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java
+2026.04.24 16:47:50 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:50 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:47:56 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:56 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:58 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:47:58 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:48:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+abr 24, 2026 4:48:00 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.04.24 16:48:00 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:03 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:48:16 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:16 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:17 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:19 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:20 INFO  Created report: Optional[file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java]
+2026.04.24 16:48:20 INFO  empty definition using pc, found symbol in pc: java/lang/String#charAt(). (full report at: "/Users/alberto/eclipse-workspace/LeetCode/.metals/.reports/metals-full/2026-04-24/r_empty-definition_16-48-20-551.md")
+2026.04.24 16:48:20 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:22 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:23 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:25 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:48:25 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2026.04.24 16:48:24 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:27 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:27 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:48:29 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:48:30 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 43
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:30 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:29 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:31 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:48:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:31 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:33 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:35 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:36 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:48:36 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:37 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:48:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:37 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:38 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:48:38 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/2833.%20Furthest%20Point%20From%20Origin/Solution.java. Output:
+
+2026.04.24 16:49:10 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2452. Words Within Two Edits of Dictionary/Solution.java. Using fallback presentation compiler.
+abr 24, 2026 4:51:27 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.24 16:53:50 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java
