@@ -355,3 +355,23 @@ WARNING: Unmatched cancel notification for request id 43
 abr 24, 2026 4:51:27 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.04.24 16:53:50 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java
+2026.04.24 16:54:08 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/2833. Furthest Point From Origin/Solution.java. Using fallback presentation compiler.
+2026.04.24 16:54:15 INFO  Shutting down server
+2026.04.24 16:54:15 INFO  Memory monitor stopped
+2026.04.24 16:54:15 INFO  shutting down Metals
+2026.04.24 16:54:15 INFO  Exiting server
+2026.05.03 17:16:50 INFO  Started: Metals version 1.6.7 in folders '/Users/alberto/eclipse-workspace/LeetCode' for client Visual Studio Code 1.116.0.
+2026.05.03 17:16:50 INFO  Memory monitor started
+2026.05.03 17:16:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.03 17:16:57 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java. Using fallback presentation compiler.
+2026.05.03 17:16:59 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java. Using fallback presentation compiler.
+2026.05.03 17:16:59 WARN  no build tool detected in workspace '/Users/alberto/eclipse-workspace/LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.03 17:16:59 WARN  Build server is not auto-connectable.
+2026.05.03 17:16:59 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java
+2026.05.03 17:16:59 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java. Using fallback presentation compiler.
+2026.05.03 17:17:00 WARN  Running javac-semanticdb failed for file:///Users/alberto/eclipse-workspace/LeetCode/Daily%20Question/796.%20Rotate%20String/Solution.java. Output:
+
+2026.05.03 17:17:01 INFO  time: code lens generation in 1.77s
+may 03, 2026 5:17:31 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.05.03 17:20:29 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java
