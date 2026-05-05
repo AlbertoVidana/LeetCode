@@ -404,3 +404,4 @@ WARNING: Unmatched cancel notification for request id 1
 may 04, 2026 6:21:49 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2026.05.04 18:23:41 WARN  no build target for: /Users/alberto/eclipse-workspace/LeetCode/Daily Question/48. Rotate Image/Solution.java
+2026.05.04 18:23:49 INFO  no build target found for /Users/alberto/eclipse-workspace/LeetCode/Daily Question/796. Rotate String/Solution.java. Using fallback presentation compiler.
